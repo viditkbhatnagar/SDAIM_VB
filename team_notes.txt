@@ -1,1 +1,2 @@
 I am vidit bhatnagar, created this file team_notes for testing purposes of merge conflict in gitHub and how to solve them.
+modifying the filw without taking pull request
